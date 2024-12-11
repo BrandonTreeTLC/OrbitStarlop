@@ -1,6 +1,6 @@
 # Want a Bunny Friend for Stepmania?!
 
-**Orbit Starlop** BrandonTreeTLC takes the role of **Orbit Starlop** an adorable Astronaut Bunny that encourages you as you dance, get amazing scores, and of course, collect plenty of carrots while you go through your rhythm fitness journey!
+BrandonTreeTLC takes the role of **Orbit Starlop** an adorable Astronaut Bunny that encourages you as you dance, get amazing scores, and of course, collect plenty of carrots while you go through your rhythm fitness journey!
 
 Orbit's lines include encouragement, combo-specific celebrations, and cute recovery lines. Whether you’re hitting 100 combos or missing a step, Orbit is here to cheer you on and keep you motivated
 
